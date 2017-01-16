@@ -1,8 +1,9 @@
 # Project specific
-/dist
+.babelrc
 
 
 # General Ignore...
+
 
 # Logs
 logs
